@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# doenv environment variables file
+.env
